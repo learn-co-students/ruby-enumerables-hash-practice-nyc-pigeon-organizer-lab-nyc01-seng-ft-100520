@@ -16,3 +16,6 @@ def nyc_pigeon_organizer(data)
     end
   end
 end
+
+
+#This lab was difficult at first to figure out how to iterate through each level. However, watching the video that accompanied it taught me how to actually use pry. Pry is essential when dealing with so many nested hashes/array, becaues it gives you a moment to see exactly what value is being returned. 
